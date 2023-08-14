@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\bin\Debug\net7.0\Else-IF.exe
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\bin\Debug\net7.0\Else-IF.deps.json
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\bin\Debug\net7.0\Else-IF.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\bin\Debug\net7.0\Else-IF.dll
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\bin\Debug\net7.0\Else-IF.pdb
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.dll
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\refint\Else-IF.dll
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.pdb
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\Else-IF.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Else-IF\Else-IF\Else-IF\obj\Debug\net7.0\ref\Else-IF.dll

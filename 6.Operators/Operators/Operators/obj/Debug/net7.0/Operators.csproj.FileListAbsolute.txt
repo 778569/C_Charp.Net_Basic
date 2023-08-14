@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\bin\Debug\net7.0\Operators.exe
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\bin\Debug\net7.0\Operators.deps.json
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\bin\Debug\net7.0\Operators.dll
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\bin\Debug\net7.0\Operators.pdb
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.dll
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\refint\Operators.dll
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.pdb
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\C#\Operators\Operators\Operators\obj\Debug\net7.0\ref\Operators.dll

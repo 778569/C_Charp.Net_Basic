@@ -1,0 +1,15 @@
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\bin\Debug\net6.0\Const Variables.exe
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\bin\Debug\net6.0\Const Variables.deps.json
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\bin\Debug\net6.0\Const Variables.runtimeconfig.json
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\bin\Debug\net6.0\Const Variables.dll
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\bin\Debug\net6.0\Const Variables.pdb
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.csproj.AssemblyReference.cache
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.AssemblyInfoInputs.cache
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.AssemblyInfo.cs
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.csproj.CoreCompileInputs.cache
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.dll
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\refint\Const Variables.dll
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.pdb
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\Const Variables.genruntimeconfig.cache
+D:\C# Code\Variables\Const Variables\Const Variables\Const Variables\obj\Debug\net6.0\ref\Const Variables.dll

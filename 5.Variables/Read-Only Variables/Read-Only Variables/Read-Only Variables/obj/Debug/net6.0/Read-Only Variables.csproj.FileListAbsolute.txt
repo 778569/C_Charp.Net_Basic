@@ -1,0 +1,15 @@
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\bin\Debug\net6.0\Read-Only Variables.exe
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\bin\Debug\net6.0\Read-Only Variables.deps.json
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\bin\Debug\net6.0\Read-Only Variables.runtimeconfig.json
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\bin\Debug\net6.0\Read-Only Variables.dll
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\bin\Debug\net6.0\Read-Only Variables.pdb
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.csproj.AssemblyReference.cache
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.AssemblyInfoInputs.cache
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.AssemblyInfo.cs
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.csproj.CoreCompileInputs.cache
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.dll
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\refint\Read-Only Variables.dll
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.pdb
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\Read-Only Variables.genruntimeconfig.cache
+D:\C# Code\Variables\Read-Only Variables\Read-Only Variables\Read-Only Variables\obj\Debug\net6.0\ref\Read-Only Variables.dll

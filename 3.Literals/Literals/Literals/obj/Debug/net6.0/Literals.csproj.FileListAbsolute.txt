@@ -1,0 +1,15 @@
+D:\C# Code\Literals\Literals\Literals\bin\Debug\net6.0\Literals.exe
+D:\C# Code\Literals\Literals\Literals\bin\Debug\net6.0\Literals.deps.json
+D:\C# Code\Literals\Literals\Literals\bin\Debug\net6.0\Literals.runtimeconfig.json
+D:\C# Code\Literals\Literals\Literals\bin\Debug\net6.0\Literals.dll
+D:\C# Code\Literals\Literals\Literals\bin\Debug\net6.0\Literals.pdb
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.csproj.AssemblyReference.cache
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.AssemblyInfoInputs.cache
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.AssemblyInfo.cs
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.csproj.CoreCompileInputs.cache
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.dll
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\refint\Literals.dll
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.pdb
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\Literals.genruntimeconfig.cache
+D:\C# Code\Literals\Literals\Literals\obj\Debug\net6.0\ref\Literals.dll

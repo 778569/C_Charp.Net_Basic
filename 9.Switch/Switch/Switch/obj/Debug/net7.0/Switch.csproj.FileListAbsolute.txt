@@ -1,0 +1,15 @@
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\bin\Debug\net7.0\Switch.exe
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\bin\Debug\net7.0\Switch.deps.json
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\bin\Debug\net7.0\Switch.runtimeconfig.json
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\bin\Debug\net7.0\Switch.dll
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\bin\Debug\net7.0\Switch.pdb
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.csproj.AssemblyReference.cache
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.AssemblyInfoInputs.cache
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.AssemblyInfo.cs
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.csproj.CoreCompileInputs.cache
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.dll
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\refint\Switch.dll
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.pdb
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\Switch.genruntimeconfig.cache
+D:\HomeWork\DotNet Tutorial\C#\Switch\Switch\Switch\obj\Debug\net7.0\ref\Switch.dll
